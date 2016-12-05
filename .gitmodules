@@ -1,3 +1,6 @@
 [submodule "docker-alpine"]
 	path = docker-alpine
 	url = https://github.com/zh3w4ng/docker-alpine
+[submodule "docker-postgresql"]
+	path = docker-postgresql
+	url = https://github.com/zh3w4ng/docker-postgresql
